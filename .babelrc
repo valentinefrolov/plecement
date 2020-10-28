@@ -1,0 +1,4 @@
+{
+  "presets": ["env"],
+  "plugins": ["transform-react-jsx", "transform-es2015-modules-umd", "transform-object-rest-spread", "transform-es2015-classes"]
+}

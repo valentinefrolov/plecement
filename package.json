@@ -1,0 +1,37 @@
+{
+  "name": "lnc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "babel-polyfill": "^6.26.0",
+    "raf": "^3.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-es2015-classes": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-fn": "0.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-bulk-import": "^1.0.1",
+    "gulp-sourcemaps": "^1.12.1",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-uglify": "^3.0.0",
+    "imagemin-mozjpeg": "^7.0.0",
+    "uglifyjs-webpack-plugin": "^1.1.6",
+    "webpack-stream": "^4.0.0"
+  },
+  "author": "frolov",
+  "license": "ISC"
+}
